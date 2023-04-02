@@ -1,4 +1,6 @@
-
+ //Предназначен для системы на базе отечественного микроконтроллера (МК) K1986BE92QI (MILANDR). 
+ //Автор - Р.А.Гараев: garaevra@mail.ru. 
+ //Компилятор:  arm-none-eabi-gcc.exe (ARM GCC Compiler из IDE Em::Blocks 2.30).
 /* Includes ------------------------------------------------------------------*/
 #include <stdint.h>
 #include <ctype.h>
